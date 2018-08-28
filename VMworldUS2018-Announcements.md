@@ -28,7 +28,12 @@
 
 [https://blogs.vmware.com/virtualblocks/2018/08/23/better-together-site-recovery-manager-srm-and-virtual-volumes-vvol/](https://blogs.vmware.com/virtualblocks/2018/08/23/better-together-site-recovery-manager-srm-and-virtual-volumes-vvol/)
 
+
 ## VMWorld US Day 1
+
+### vSAN Private Beta
+
+[https://blogs.vmware.com/virtualblocks/2018/08/27/vsanprivatebeta/](https://blogs.vmware.com/virtualblocks/2018/08/27/vsanprivatebeta/)
 
 ### VMware vSAN 6.7u1
 
