@@ -74,7 +74,7 @@
 
 ## VMware Pulse 2.0 (IoT)
 
-[https://www.vmware.com/de/products/pulse-iot-device-management.html](https://www.vmware.com/de/products/pulse-iot-device-management.html)
+[https://blogs.vmware.com/pulseiot/2018/08/28/pulse-iot-center-2-0-management-for-the-device-edge/](https://blogs.vmware.com/pulseiot/2018/08/28/pulse-iot-center-2-0-management-for-the-device-edge/)
 
 ## CloudHealth Akquisition (Multi Cloud Operation and Automation)
 
