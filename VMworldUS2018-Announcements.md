@@ -22,6 +22,12 @@
 
 [https://blogs.vmware.com/management/2018/08/whats-new-in-vrealize-operations-7-0.html](https://blogs.vmware.com/management/2018/08/whats-new-in-vrealize-operations-7-0.html)
 
+### SRM support for VVols coming
+
+[http://www.yellow-bricks.com/2018/08/24/srm-support-for-vvols-coming/](http://www.yellow-bricks.com/2018/08/24/srm-support-for-vvols-coming/)
+
+[https://blogs.vmware.com/virtualblocks/2018/08/23/better-together-site-recovery-manager-srm-and-virtual-volumes-vvol/](https://blogs.vmware.com/virtualblocks/2018/08/23/better-together-site-recovery-manager-srm-and-virtual-volumes-vvol/)
+
 ## VMWorld US Day 1
 
 ### VMware vSAN 6.7u1
