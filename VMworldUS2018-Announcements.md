@@ -10,6 +10,8 @@
 
 [https://blogs.vmware.com/vcloud/2018/08/vmware-cloud-provider-pod.html](https://blogs.vmware.com/vcloud/2018/08/vmware-cloud-provider-pod.html)
 
+[https://vlenzker.net/2018/08/vmworld-2018-introducing-vmware-cloud-provider-pod/](https://vlenzker.net/2018/08/vmworld-2018-introducing-vmware-cloud-provider-pod/)
+
 [https://www.vmware.com/products/cloud-provider-pod.html](https://www.vmware.com/products/cloud-provider-pod.html)
 
 ### VMware vCloud Director 9.5
@@ -97,6 +99,8 @@
 ### Project Concord (Enterprise Blockchain)
 
 "VMware demonstrated a highly scalable, energy-efficient decentralized trust infrastructure for digital consensus and smart contract execution. Project Concord may be used to power distributed trust infrastructures, including blockchains. As a leader in enterprise-grade distributed management and security products, VMware is poised to help enterprises harness blockchain technology in a dramatically efficient manner to advance their business goals. Project Concord is available immediately as an open source project."
+
+[https://octo.vmware.com/vmware-creates-open-source-project-concord-for-secure-scalable-blockchain/](https://octo.vmware.com/vmware-creates-open-source-project-concord-for-secure-scalable-blockchain/)
 
 ### Workspace ONE Intelligence
 
