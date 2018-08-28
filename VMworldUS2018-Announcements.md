@@ -1,5 +1,5 @@
-VMware
-========
+# VMware
+
 ## Pre VMWorld US
 
 ### VMware vCloud Availability for Cloud to Cloud 1.5
@@ -100,8 +100,8 @@ VMware
 
 ???
 
-Partners
-=======
+# Partners
+
 ## NetApp
 
 ### Scale-Out Storage Expansion for NetApp HCI and SolidFire
