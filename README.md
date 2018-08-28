@@ -1,4 +1,4 @@
-# VMworld 2018 - Announcments Collection
+# VMworld 2018 - Announcements Collection
 
 ## About
 
@@ -12,4 +12,4 @@ MY CLOUD-(R)EVOLUTION [mycloudrevolution.com](http://mycloudrevolution.com/)
 
 [VMworld US](/VMworldUS2018-Announcements.md)
 
-All Announcments from VMware and partners like NetApp and Veeam during VMworld US 2018.
+All Announcements from VMware and partners like NetApp and Veeam during VMworld US 2018.
