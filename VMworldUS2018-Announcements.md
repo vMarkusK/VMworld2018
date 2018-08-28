@@ -86,6 +86,7 @@
 
 [https://www.cloudhealthtech.com/](https://www.cloudhealthtech.com/)
 
+[https://www.actualtech.io/vmware-announces-acquisition-cloudhealth-technologies/](https://www.actualtech.io/vmware-announces-acquisition-cloudhealth-technologies/)
 [https://ir.vmware.com/overview/press-releases/press-release-details/2018/VMware-Announces-Intent-to-Acquire-CloudHealth-Technologies-a-Global-Platform-for-Multi-Cloud-Operations/default.aspx](https://ir.vmware.com/overview/press-releases/press-release-details/2018/VMware-Announces-Intent-to-Acquire-CloudHealth-Technologies-a-Global-Platform-for-Multi-Cloud-Operations/default.aspx)
 
 ### Project Magna (AI)
