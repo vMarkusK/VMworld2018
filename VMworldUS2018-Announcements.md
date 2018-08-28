@@ -104,6 +104,10 @@
 
 [https://blogs.vmware.com/euc/2018/08/workspaceone-intelligent-hub.html](https://blogs.vmware.com/euc/2018/08/workspaceone-intelligent-hub.html)
 
+### VMware Cloud Foundation 3.0
+
+[https://blogs.vmware.com/cloud-foundation/2018/08/28/introduction-to-vmware-cloud-foundation-3-0/](https://blogs.vmware.com/cloud-foundation/2018/08/28/introduction-to-vmware-cloud-foundation-3-0/)
+
 # Partners
 
 ## NetApp
