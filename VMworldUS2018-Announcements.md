@@ -70,6 +70,8 @@
 
 [https://blogs.vmware.com/management/2018/08/whats-new-vrealize-automation-7-5.html](https://blogs.vmware.com/management/2018/08/whats-new-vrealize-automation-7-5.html)
 
+[https://www.viktorious.nl/2018/08/28/vmworld-2018-whats-new-in-vrealize-automation-7-5/](https://www.viktorious.nl/2018/08/28/vmworld-2018-whats-new-in-vrealize-automation-7-5/)
+
 ### vRealize Log Insight 4.7
 
 [https://blogs.vmware.com/management/2018/08/vrealize-log-insight-4-7-september-2018-new-release.html](https://blogs.vmware.com/management/2018/08/vrealize-log-insight-4-7-september-2018-new-release.html)
