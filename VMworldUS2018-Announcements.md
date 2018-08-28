@@ -100,6 +100,8 @@
 
 [https://blogs.vmware.com/euc/2018/08/workspaceone-eum-vmworld.html](https://blogs.vmware.com/euc/2018/08/workspaceone-eum-vmworld.html)
 
+[https://blogs.vmware.com/euc/2018/08/workspaceone-intelligent-hub.html](https://blogs.vmware.com/euc/2018/08/workspaceone-intelligent-hub.html)
+
 # Partners
 
 ## NetApp
