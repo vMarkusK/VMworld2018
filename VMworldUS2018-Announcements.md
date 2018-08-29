@@ -6,6 +6,8 @@
 
 [https://www.paluszek.com/wp/2018/08/24/vmware-vcloud-availability-for-cloud-to-cloud-1-5-is-announced-whats-new/](https://www.paluszek.com/wp/2018/08/24/vmware-vcloud-availability-for-cloud-to-cloud-1-5-is-announced-whats-new/)
 
+[https://blogs.vmware.com/vcloud/2018/08/vcloud-availability-cloud-to-cloud-dr.html](https://blogs.vmware.com/vcloud/2018/08/vcloud-availability-cloud-to-cloud-dr.html)
+
 ### VMware Cloud Provider Pod
 
 [https://blogs.vmware.com/vcloud/2018/08/vmware-cloud-provider-pod.html](https://blogs.vmware.com/vcloud/2018/08/vmware-cloud-provider-pod.html)
@@ -141,4 +143,5 @@
 [https://www.veeam.com/news/availability-solution-cisco-hyperflex.html](https://www.veeam.com/news/availability-solution-cisco-hyperflex.html)
 
 ### Veeam in the AWS Marketplace
-https://vzilla.co.uk/vzilla-blog/vmworld-2018-day-2-veeam-in-the-aws-marketplace
+
+[https://vzilla.co.uk/vzilla-blog/vmworld-2018-day-2-veeam-in-the-aws-marketplace](https://vzilla.co.uk/vzilla-blog/vmworld-2018-day-2-veeam-in-the-aws-marketplace)
