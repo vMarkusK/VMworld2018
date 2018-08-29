@@ -139,3 +139,6 @@
 ### Veeam Intelligent Data Management Combines with Cisco HyperFlex
 
 [https://www.veeam.com/news/availability-solution-cisco-hyperflex.html](https://www.veeam.com/news/availability-solution-cisco-hyperflex.html)
+
+### Veeam in the AWS Marketplace
+https://vzilla.co.uk/vzilla-blog/vmworld-2018-day-2-veeam-in-the-aws-marketplace
