@@ -110,6 +110,10 @@
 
 ???
 
+### NSX Cloud extended support for AWS as a Tech Preview and in our upcoming release
+
+[https://blogs.vmware.com/networkvirtualization/2018/08/nsx-cloud-vmworld.html/](https://blogs.vmware.com/networkvirtualization/2018/08/nsx-cloud-vmworld.html/)
+
 ### Project Concord (Enterprise Blockchain)
 
 "VMware demonstrated a highly scalable, energy-efficient decentralized trust infrastructure for digital consensus and smart contract execution. Project Concord may be used to power distributed trust infrastructures, including blockchains. As a leader in enterprise-grade distributed management and security products, VMware is poised to help enterprises harness blockchain technology in a dramatically efficient manner to advance their business goals. Project Concord is available immediately as an open source project."
